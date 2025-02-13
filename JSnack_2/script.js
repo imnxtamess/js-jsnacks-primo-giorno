@@ -14,5 +14,4 @@ else if (second_word.length > first_word.length) {
 }
 else {
   console.log(`${first_word} and ${second_word} are the same length`);
-
 }
